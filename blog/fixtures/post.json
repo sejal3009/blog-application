@@ -1,0 +1,207 @@
+[
+{
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+        "title": "Data Science",
+        "image": "blog_posts/22/02/15/datascience.jpg",
+        "author": 1,
+        "slug": "data-science",
+        "body": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.\r\n\n\r\nA data scientist is someone who creates programming code, and combines it with statistical knowledge to create insights from data.\r\n\r\nData science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data), and applying the knowledge and actionable insights from data to solve problems in a wide range of application domains. The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, information visualization, data sonification, data integration, graphic design, complex systems, communication and business.Statistician Nathan Yau, drawing on Ben Fry, also links data science to human-computer interaction: users should be able to intuitively control and explore data.\r\n\r\n\n In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.\r\n\r\nData science’s lifecycle consists of five distinct stages, each with its own tasks:\r\n\r\n1)Capture: Data Acquisition, Data Entry, Signal Reception, Data Extraction. This stage involves gathering raw structured and unstructured data.\r\n\r\n2)Maintain: Data Warehousing, Data Cleansing, Data Staging, Data Processing, Data Architecture. This stage covers taking the raw data and putting it in a form that can be used.\r\n\r\n3)Process: Data Mining, Clustering/Classification, Data Modeling, Data Summarization. Data scientists take the prepared data and examine its patterns, ranges, and biases to determine how useful it will be in predictive analysis.\r\n\r\n4)Analyze: Exploratory/Confirmatory, Predictive Analysis, Regression, Text Mining, Qualitative Analysis. Here is the real meat of the lifecycle. This stage involves performing the various analyses on the data.\r\n\r\n5)Communicate: Data Reporting, Data Visualization, Business Intelligence, Decision Making. In this final step, analysts prepare the analyses in easily readable forms such as charts, graphs, and reports.",
+        "publish": "2022-02-15T15:38:05Z",
+        "created": "2022-02-15T14:40:26.826Z",
+        "updated": "2022-02-15T15:49:26.826Z",
+        "status": "publish"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+        "title": "Artificial Intelligence",
+        "image": "blog_posts/22/02/15/AI.jpg",
+        "author": 1,
+        "slug": "artificial-intelligence",
+        "body": "Artificial intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence\r\n\r\n\nArtificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. Leading AI textbooks define the field as the study of intelligent agents: any system that perceives its environment and takes actions that maximize its chance of achieving its goals.\r\n\r\nSome popular accounts use the term artificial intelligence to describe machines that mimic cognitive functions that humans associate with the human mind, such as learning and problem solving, however, this definition is rejected by major AI researchers\r\n\r\n four types of Artificial Intelligence:\r\n\r\n1)1)Reactive Machines  :  A reactive machine follows the most basic of AI principles and, as its name implies, is capable of only using its intelligence to perceive and react to the world in front of it. A reactive machine cannot store memory and as a result, cannot rely on past experiences to inform decision-making in real-time\r\n\r\n2)2)Limited Memory  :  Limited memory artificial intelligence has the ability to store previous data and predictions when gathering information and weighing potential decisions — essentially looking into the past for clues on what may come next. Limited memory artificial intelligence is more complex and presents greater possibilities than reactive machines.\r\n\r\n3)3)Theory of Mind  :  Theory of Mind is just that — theoretical. We have not yet achieved the technological and scientific capabilities necessary to reach this next level of artificial intelligence. \r\n\r\n4)4)Self-awareness  :  Once Theory of Mind can be established in artificial intelligence, sometime well into the future, the final step will be for AI to become self-aware. This kind of artificial intelligence possesses human-level consciousness and understands its own existence in the world, as well as the presence and emotional state of others ",
+	"publish": "2022-02-15T14:07:41Z",
+        "created": "2022-02-15T13:11:05.732Z",
+        "updated": "2022-02-15T14:11:06.280Z",
+        "status": "publish"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+        "title": "Cyber Security",
+        "image": "blog_posts/22/02/15/cyber.jpg",
+        "author": 1,
+        "slug": "cyber-security",
+        "body": "Cybersecurity is the practice of protecting critical systems and sensitive information from digital attacks. Also known as information technology (IT) security, cybersecurity measures are designed to combat threats against networked systems and applications, whether those threats originate from inside or outside of an organization.\r\n\r\nA strong cybersecurity strategy has layers of protection to defend against cyber crime, including cyber attacks that attempt to access, change, or destroy data; extort money from users or the organization; or aim to disrupt normal business operations. Countermeasures should address:\r\n\r\n1)Critical infrastructure security - Practices for protecting the computer systems, networks, and other assets that society relies upon for national security, economic health, and/or public safety. The National Institute of Standards and Technology (NIST) has created a cybersecurity framework to help organizations in this area, while the U.S. Department of Homeland Security (DHS) provides additional guidance.\r\n\r\n2)Network security - Security measures for protecting a computer network from intruders, including both wired and wireless (Wi-Fi) connections.\r\n\r\n3)Cloud security - Specifically, true confidential computing that encrypts cloud data at rest (in storage), in motion (as it travels to, from and within the cloud) and in use (during processing) to support customer privacy, business requirements and regulatory compliance standards.\r\n\r\n4)End-user education - Building security awareness across the organization to strengthen endpoint security. For example, users can be trained to delete suspicious email attachments, avoid using unknown USB devices, etc.r\n\r\n5)Application security - Processes that help protect applications operating on-premises and in the cloud. Security should be built into applications at the design stage, with considerations for how data is handled, user authentication, etc.",
+        "publish": "2022-02-15T15:15:35Z",
+        "created": "2022-02-15T14:18:33.031Z",
+        "updated": "2022-02-15T15:21:22.330Z",
+        "status": "publish"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+        "title": "Machine learning",
+        "image": "blog_posts/22/02/15/ml.jpg",
+        "author": 1,
+        "slug": "machine-learning",
+        "body": "Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.\r\n\r\nIt is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.\r\n\r\nMachine learning approaches are traditionally divided into three broad categories, depending on the nature of the signal or feedback available to the learning system:\r\n\r\n1)Supervised learning  :  Supervised learning algorithms build a mathematical model of a set of data that contains both the inputs and the desired outputs. The data is known as training data, and consists of a set of training examples. Each training example has one or more inputs and the desired output, also known as a supervisory signal. In the mathematical model, each training example is represented by an array or vector, sometimes called a feature vector, and the training data is represented by a matrix. Through iterative optimization of an objective function, supervised learning algorithms learn a function that can be used to predict the output associated with new inputs\r\n\r\n2)Unsupervised learning  :  Unsupervised learning algorithms take a set of data that contains only inputs, and find structure in the data, like grouping or clustering of data points. The algorithms, therefore, learn from test data that has not been labeled, classified or categorized. Instead of responding to feedback, unsupervised learning algorithms identify commonalities in the data and react based on the presence or absence of such commonalities in each new piece of data. A central application of unsupervised learning is in the field of density estimation in statistics, such as finding the probability density function.Though unsupervised learning encompasses other domains involving summarizing and explaining data features.\r\n\r\n3)Reinforcement learning  :  Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment so as to maximize some notion of cumulative reward. Due to its generality, the field is studied in many other disciplines, such as game theory, control theory, operations research, information theory, simulation-based optimization, multi-agent systems, swarm intelligence, statistics and genetic algorithms. In machine learning, the environment is typically represented as a Markov decision process (MDP). Many reinforcement learning algorithms use dynamic programming techniques.Reinforcement learning algorithms do not assume knowledge of an exact mathematical model of the MDP, and are used when exact models are infeasible. Reinforcement learning algorithms are used in autonomous vehicles or in learning to play a game against a human opponent.",
+        "publish": "2022-02-15T15:23:19Z",
+        "created": "2022-02-15T14:27:31.544Z",
+        "updated": "2022-02-15T15:27:31.544Z",
+        "status": "publish"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+        "title": "Software development",
+        "image": "blog_posts/22/02/15/software.jpg",
+        "author": 1,
+        "slug": "Software-development",
+        "body": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Software development involves writing and maintaining the source code, but in a broader sense, it includes all processes from the conception of the desired software through to the final manifestation of the software, typically in a planned and structured process.Software development also includes research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.\r\n\n\rSoftware development is focused on the programs (or software) used in computer systems. Software developers are responsible for the concept, creation, programming, some documenting, testing, improving and maintaining the software and its software components\r\n\r\nSoftware developers (and mobile software engineers) create programs and mobile applications for stand-alone desktop computers and mobile devices and their platforms. \r\n\r\nSoftware developers need to have understanding of not only development best practices, but also the theory behind the programming\r\n\r\nSoftware development activities\r\n\r\n1)Identification of need  :  The sources of ideas for software products are plentiful. These ideas can come from market research including the demographics of potential new customers, existing customers, sales prospects who rejected the product, other internal software development staff, or a creative third party. Ideas for software products are usually first evaluated by marketing personnel for economic feasibility, for fit with existing channels distribution, for possible effects on existing product lines, required features, and for fit with the company's marketing objectives. In a marketing evaluation phase, the cost and time assumptions become evaluated.\r\n\r\n2)Planning process  :  Planning is an objective of each and every activity, where we want to discover things that belong to the project. An important task in creating a software program is extracting the requirements or requirements analysis. Customers typically have an abstract idea of what they want as an end result but do not know what software should do. Skilled and experienced software engineers recognize incomplete, ambiguous, or even contradictory requirements at this point. Frequently demonstrating live code may help reduce the risk that the requirements are incorrect.",
+        "publish": "2022-02-15T16:29:22Z",
+        "created": "2022-02-15T15:34:15.790Z",
+        "updated": "2022-02-15T16:34:15.790Z",
+        "status": "publish"
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 1,
+    "fields": {
+        "post": 2,
+        "name": "sejal",
+        "email": "p@gmail.com",
+        "body": "informative!!",
+        "created": "2022-02-15T16:36:07.329Z",
+        "updated": "2022-02-15T16:36:07.330Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 2,
+    "fields": {
+        "post": 5,
+        "name": "sejal",
+        "email": "try@gmail.com",
+        "body": "good info.",
+        "created": "2022-02-15T15:37:10.542Z",
+        "updated": "2022-02-15T15:37:10.542Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 3,
+    "fields": {
+        "post": 1,
+        "name": "sonali",
+        "email": "sona@gmail.com",
+        "body": "nice!!",
+        "created": "2022-02-15T16:38:20.540Z",
+        "updated": "2022-02-15T16:38:20.540Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 4,
+    "fields": {
+        "post": 4,
+        "name": "sejal",
+        "email": "try@gmail.com",
+        "body": "Comment Three",
+        "created": "2022-02-15T15:39:53.559Z",
+        "updated": "2022-02-15T15:39:53.559Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 5,
+    "fields": {
+        "post": 3,
+        "name": "SEJAL",
+        "email": "TRY@gmail.com",
+        "body": "Comment Five",
+        "created": "2022-02-15T15:41:02.743Z",
+        "updated": "2022-02-15T15:41:02.743Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 6,
+    "fields": {
+        "post": 5,
+        "name": "SEJAL",
+        "email": "try@gmail.com",
+        "body": "Comment Six",
+        "created": "2022-02-15T16:42:09.353Z",
+        "updated": "2022-02-15T16:42:09.353Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 7,
+    "fields": {
+        "post": 4,
+        "name": "SEJAL",
+        "email": "try@gmail.com",
+        "body": "Comment Seven",
+        "created": "2022-02-15T16:43:00.781Z",
+        "updated": "2022-02-15T16:43:00.781Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 8,
+    "fields": {
+        "post": 2,
+        "name": "SEJAL",
+        "email": "try@gmail.com",
+        "body": "Comment Seven",
+        "created": "2022-02-15T16:44:23.147Z",
+        "updated": "2022-02-15T16:44:23.147Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 9,
+    "fields": {
+        "post": 5,
+        "name": "SEJAL",
+        "email": "try@gmail.com",
+        "body": "Commen Nine",
+        "created": "2022-02-15T16:45:22.269Z",
+        "updated": "2022-02-15T16:45:22.269Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 10,
+    "fields": {
+        "post": 5,
+        "name": "SEJAL",
+        "email": "try@gmail.com",
+        "body": "Comment Ten",
+        "created": "2022-02-15T16:46:04.812Z",
+        "updated": "2022-02-15T16:46:04.812Z",
+        "active": true
+    }
+}
+]
